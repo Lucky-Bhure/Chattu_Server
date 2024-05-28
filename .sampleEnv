@@ -6,7 +6,7 @@ JWT_SECRET=djgjkdshbgjkhfnjksdfhbnsjkdfsdhjfk
 
 ADMIN_SECRET_KEY= sample admin kjey
 
-NODE_ENV = DEVELOPMENT
+NODE_ENV = PRODUCTION
 
 CLIENT_URL = frontend url
 
